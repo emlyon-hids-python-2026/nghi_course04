@@ -1,5 +1,5 @@
 [project]
-name = "nghi-course03-hw"
+name = "nghi-course04"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.scripts]
-nghi-course03-hw = "nghi_course03_hw:main"
+nghi-course04 = "nghi_course04:main"
 
 [build-system]
 requires = ["uv_build>=0.13.1,<0.14.0"]
