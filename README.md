@@ -25,4 +25,4 @@ uv run scripts/demo.py
 
 ## Author
 
-Your Name <hoang1.nguyen@edu.em-lyon.com>
+NGUYEN Hoang Dong Nghi <hoang1.nguyen@edu.em-lyon.com>
